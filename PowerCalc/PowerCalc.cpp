@@ -1,6 +1,6 @@
 //28
 //https://www.howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh/tinh-px-y-xy-1459
-
+//Targetted complexity: O(log(N))
 #include <iostream>
 #include <math.h>
 using namespace std;
