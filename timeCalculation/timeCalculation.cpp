@@ -3,6 +3,8 @@
 //Input: 7200
 //Output: 02:00:00
 //https://codelearn.io/training/detail/6342
+//Skill covered: Time parsing and formatting
+//Constraints: 0 <= s <= 100000.
 
 #include <bits/stdc++.h>
 
