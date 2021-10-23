@@ -1,4 +1,5 @@
 //Palindrome number check (not string)
+//Or also called reverse number problem
 //https://www.howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh/kiem-tra-so-doi-xung-1279
 #include <stdio.h>
 #include <iostream>
